@@ -1,0 +1,8 @@
+# Place your custom-trained YOLOv5 weights here.
+#
+# The Flask app (app.py) loads `best.pt` from this directory by default, or
+# from the path set in the HARDHAT_MODEL_PATH environment variable.
+#
+# This model has a single class: helmet (class id 0).
+#
+# This file is intentionally empty — add your own best.pt on your local machine.
